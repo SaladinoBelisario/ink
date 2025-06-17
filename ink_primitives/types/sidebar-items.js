@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["DefaultEnvironment","DepositLimit","NoChainExtension","Origin","Phase"],"struct":["AccountId","AccountIdMapper","EventRecordSpec","Hash","RuntimeEvent"],"trait":["AccountIdGuard","Clear","CodecAsType","Environment","FromLittleEndian"],"type":["Address","Balance","BlockNumber","EventRecord","Gas","Timestamp"]};

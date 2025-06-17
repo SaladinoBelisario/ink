@@ -1,1 +1,0 @@
-initSidebarItems({"fn":[["ensure_pub_visibility","Ensures that the given visibility is `pub` and otherwise returns an appropriate error."],["local_message_id","Returns a local ID unique to the ink! trait definition for the identifier."]]});

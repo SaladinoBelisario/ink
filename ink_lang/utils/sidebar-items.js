@@ -1,1 +1,0 @@
-initSidebarItems({"fn":[["initialize_contract","Initializes the ink! contract using the given initialization routine."]]});
